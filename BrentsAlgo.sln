@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrentsAlgorithm", "BrentsAlgorithm\BrentsAlgorithm.csproj", "{C14E2A2C-DAE3-461D-88ED-0B8F911B10F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrentsAlgorithmTest", "BrentsAlgorithmTest\BrentsAlgorithmTest.csproj", "{4386725A-6980-467C-A32E-C2679FA358C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C14E2A2C-DAE3-461D-88ED-0B8F911B10F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14E2A2C-DAE3-461D-88ED-0B8F911B10F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14E2A2C-DAE3-461D-88ED-0B8F911B10F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14E2A2C-DAE3-461D-88ED-0B8F911B10F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4386725A-6980-467C-A32E-C2679FA358C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4386725A-6980-467C-A32E-C2679FA358C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4386725A-6980-467C-A32E-C2679FA358C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4386725A-6980-467C-A32E-C2679FA358C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
